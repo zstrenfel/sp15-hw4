@@ -10,6 +10,18 @@ The overall thing that needs to be accomplished is:
 - Going to "/dogs/new" will go to a working form that will allow me to create a dog and redirect me to the new dogs show view
 
 ## Getting Started
+To start everything off, fork this repository - there should be a fork button on the top right corner of the repo.
+Fork the repository to your own!
+
+Run this command to clone this repository <b>after you fork:</b>
+```
+git clone https://github.com/your_username/sp15-hw2
+```
+
+Afterwards, change directory into the folder and run
+```
+rails server
+```
 
 ## Just a note
   There is the annotated code of how to do the same process for creating all this functionality for a user.  The only difference
@@ -24,4 +36,3 @@ git commit -am "I'M DONE"
 ```
 
 and fill out this [form](https://docs.google.com/forms/d/1X9hN_QxenSULe-cWQIVWWJuholodQEp_wxSATBRzPPY/viewform).
-
